@@ -13,6 +13,7 @@
 		D7C441A522D2358600D42D81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7C441A422D2358600D42D81 /* Assets.xcassets */; };
 		D7C441A822D2358600D42D81 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7C441A622D2358600D42D81 /* LaunchScreen.storyboard */; };
 		D7C441B022D235B500D42D81 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C441AF22D235B500D42D81 /* DetailViewController.swift */; };
+		D7C441B222D2381300D42D81 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = D7C441B122D2381300D42D81 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D7C441A722D2358600D42D81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D7C441A922D2358600D42D81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D7C441AF22D235B500D42D81 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		D7C441B122D2381300D42D81 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		D7C4419122D2358600D42D81 = {
 			isa = PBXGroup;
 			children = (
+				D7C441B122D2381300D42D81 /* .gitignore */,
 				D7C4419C22D2358600D42D81 /* ViewControllerLifeCycle */,
 				D7C4419B22D2358600D42D81 /* Products */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7C441B222D2381300D42D81 /* .gitignore in Resources */,
 				D7C441A822D2358600D42D81 /* LaunchScreen.storyboard in Resources */,
 				D7C441A522D2358600D42D81 /* Assets.xcassets in Resources */,
 				D7C441A322D2358600D42D81 /* Main.storyboard in Resources */,
